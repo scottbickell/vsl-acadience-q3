@@ -345,6 +345,9 @@ table.button table td {
 .no-bottom-padding {
   padding-bottom: 0 !important; }
 
+.nobreak {
+  white-space: nowrap; }
+
 a, a:visited, a:hover, a:active {
   color: #005587; }
 
