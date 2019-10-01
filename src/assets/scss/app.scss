@@ -199,6 +199,10 @@ li {
     padding: 0 0 0 20px;
 }
 
+a, a:visited, a:hover, a:active {
+    color: #005587;
+}
+
 .sidebar ul li {
     color: #592c82;
     font-size: 14px;
@@ -207,7 +211,7 @@ li {
 
 .content h1 {
     color: #666666;
-    font-size: 24px;
+    font-size: 20px;
     text-align: center;
     font-weight: bold;
     margin: 0;
